@@ -1,0 +1,13 @@
+C:\Users\aikha\Downloads\DataStructuresExamples\QueuePractice\bin\Debug\netcoreapp3.1\QueuePractice.exe
+C:\Users\aikha\Downloads\DataStructuresExamples\QueuePractice\bin\Debug\netcoreapp3.1\QueuePractice.deps.json
+C:\Users\aikha\Downloads\DataStructuresExamples\QueuePractice\bin\Debug\netcoreapp3.1\QueuePractice.runtimeconfig.json
+C:\Users\aikha\Downloads\DataStructuresExamples\QueuePractice\bin\Debug\netcoreapp3.1\QueuePractice.runtimeconfig.dev.json
+C:\Users\aikha\Downloads\DataStructuresExamples\QueuePractice\bin\Debug\netcoreapp3.1\QueuePractice.dll
+C:\Users\aikha\Downloads\DataStructuresExamples\QueuePractice\bin\Debug\netcoreapp3.1\QueuePractice.pdb
+C:\Users\aikha\Downloads\DataStructuresExamples\QueuePractice\obj\Debug\netcoreapp3.1\QueuePractice.csprojAssemblyReference.cache
+C:\Users\aikha\Downloads\DataStructuresExamples\QueuePractice\obj\Debug\netcoreapp3.1\QueuePractice.AssemblyInfoInputs.cache
+C:\Users\aikha\Downloads\DataStructuresExamples\QueuePractice\obj\Debug\netcoreapp3.1\QueuePractice.AssemblyInfo.cs
+C:\Users\aikha\Downloads\DataStructuresExamples\QueuePractice\obj\Debug\netcoreapp3.1\QueuePractice.csproj.CoreCompileInputs.cache
+C:\Users\aikha\Downloads\DataStructuresExamples\QueuePractice\obj\Debug\netcoreapp3.1\QueuePractice.dll
+C:\Users\aikha\Downloads\DataStructuresExamples\QueuePractice\obj\Debug\netcoreapp3.1\QueuePractice.pdb
+C:\Users\aikha\Downloads\DataStructuresExamples\QueuePractice\obj\Debug\netcoreapp3.1\QueuePractice.genruntimeconfig.cache

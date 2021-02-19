@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aikha\\Downloads\\DataStructuresExamples\\DataStructuresExamples\\StackPractice.csproj",
-      "projectName": "StackPractice",
-      "projectPath": "C:\\Users\\aikha\\Downloads\\DataStructuresExamples\\DataStructuresExamples\\StackPractice.csproj",
+      "projectUniqueName": "C:\\Users\\aikha\\Downloads\\DataStructuresExamples\\QueuePractice\\QueuePractice.csproj",
+      "projectName": "QueuePractice",
+      "projectPath": "C:\\Users\\aikha\\Downloads\\DataStructuresExamples\\QueuePractice\\QueuePractice.csproj",
       "packagesPath": "C:\\Users\\aikha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aikha\\Downloads\\DataStructuresExamples\\DataStructuresExamples\\obj\\",
+      "outputPath": "C:\\Users\\aikha\\Downloads\\DataStructuresExamples\\QueuePractice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aikha\\AppData\\Roaming\\NuGet\\NuGet.Config",

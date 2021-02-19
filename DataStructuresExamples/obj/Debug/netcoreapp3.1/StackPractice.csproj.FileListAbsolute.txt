@@ -1,0 +1,13 @@
+C:\Users\aikha\Downloads\DataStructuresExamples\DataStructuresExamples\bin\Debug\netcoreapp3.1\StackPractice.exe
+C:\Users\aikha\Downloads\DataStructuresExamples\DataStructuresExamples\bin\Debug\netcoreapp3.1\StackPractice.deps.json
+C:\Users\aikha\Downloads\DataStructuresExamples\DataStructuresExamples\bin\Debug\netcoreapp3.1\StackPractice.runtimeconfig.json
+C:\Users\aikha\Downloads\DataStructuresExamples\DataStructuresExamples\bin\Debug\netcoreapp3.1\StackPractice.runtimeconfig.dev.json
+C:\Users\aikha\Downloads\DataStructuresExamples\DataStructuresExamples\bin\Debug\netcoreapp3.1\StackPractice.dll
+C:\Users\aikha\Downloads\DataStructuresExamples\DataStructuresExamples\bin\Debug\netcoreapp3.1\StackPractice.pdb
+C:\Users\aikha\Downloads\DataStructuresExamples\DataStructuresExamples\obj\Debug\netcoreapp3.1\StackPractice.csprojAssemblyReference.cache
+C:\Users\aikha\Downloads\DataStructuresExamples\DataStructuresExamples\obj\Debug\netcoreapp3.1\StackPractice.AssemblyInfoInputs.cache
+C:\Users\aikha\Downloads\DataStructuresExamples\DataStructuresExamples\obj\Debug\netcoreapp3.1\StackPractice.AssemblyInfo.cs
+C:\Users\aikha\Downloads\DataStructuresExamples\DataStructuresExamples\obj\Debug\netcoreapp3.1\StackPractice.csproj.CoreCompileInputs.cache
+C:\Users\aikha\Downloads\DataStructuresExamples\DataStructuresExamples\obj\Debug\netcoreapp3.1\StackPractice.dll
+C:\Users\aikha\Downloads\DataStructuresExamples\DataStructuresExamples\obj\Debug\netcoreapp3.1\StackPractice.pdb
+C:\Users\aikha\Downloads\DataStructuresExamples\DataStructuresExamples\obj\Debug\netcoreapp3.1\StackPractice.genruntimeconfig.cache
