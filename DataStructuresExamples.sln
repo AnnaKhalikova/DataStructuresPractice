@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackPractice", "DataStructuresExamples\StackPractice.csproj", "{097DDC75-038A-4E2A-B0DD-2DF14722C212}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackPractice", "DataStructuresExamples\StackPractice.csproj", "{097DDC75-038A-4E2A-B0DD-2DF14722C212}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueuePractice", "QueuePractice\QueuePractice.csproj", "{FD78BB2D-E668-41A0-8626-8352F3611364}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueuePractice", "QueuePractice\QueuePractice.csproj", "{FD78BB2D-E668-41A0-8626-8352F3611364}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingPractice", "SortingPractice\SortingPractice.csproj", "{DCDF3419-2CF6-49E7-8EDC-13483256B2F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{FD78BB2D-E668-41A0-8626-8352F3611364}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD78BB2D-E668-41A0-8626-8352F3611364}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD78BB2D-E668-41A0-8626-8352F3611364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCDF3419-2CF6-49E7-8EDC-13483256B2F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDF3419-2CF6-49E7-8EDC-13483256B2F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDF3419-2CF6-49E7-8EDC-13483256B2F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDF3419-2CF6-49E7-8EDC-13483256B2F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

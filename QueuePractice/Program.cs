@@ -9,9 +9,9 @@ namespace QueuePractice
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Queue<int> queue = CreateQueue(4, -10, 5, 7, 48, 9, 10);
-            Console.WriteLine("The max element: " + FindMaxElementInQueue(queue));
-            Console.WriteLine("The min element: " + FindMinElementInQueue(queue));
+            Queue<int> queue = CreateQueue(4, -10, 5, -15, 48, 9, -20);
+            Console.WriteLine("The max element: " + (FindMaxElementInQueue(queue) + 1));
+            Console.WriteLine("The min element: " + (FindMinElementInQueue(queue) + 1));
             Console.WriteLine("Result of calculating: " + CalculateAmount(queue));
         }
         static Queue<int> CreateQueue(params int[] numbers)
