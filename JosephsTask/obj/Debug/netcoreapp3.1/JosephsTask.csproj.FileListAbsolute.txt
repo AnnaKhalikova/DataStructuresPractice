@@ -1,0 +1,13 @@
+C:\Users\aikha\Downloads\DataStructuresExamples\JosephsTask\bin\Debug\netcoreapp3.1\JosephsTask.exe
+C:\Users\aikha\Downloads\DataStructuresExamples\JosephsTask\bin\Debug\netcoreapp3.1\JosephsTask.deps.json
+C:\Users\aikha\Downloads\DataStructuresExamples\JosephsTask\bin\Debug\netcoreapp3.1\JosephsTask.runtimeconfig.json
+C:\Users\aikha\Downloads\DataStructuresExamples\JosephsTask\bin\Debug\netcoreapp3.1\JosephsTask.runtimeconfig.dev.json
+C:\Users\aikha\Downloads\DataStructuresExamples\JosephsTask\bin\Debug\netcoreapp3.1\JosephsTask.dll
+C:\Users\aikha\Downloads\DataStructuresExamples\JosephsTask\bin\Debug\netcoreapp3.1\JosephsTask.pdb
+C:\Users\aikha\Downloads\DataStructuresExamples\JosephsTask\obj\Debug\netcoreapp3.1\JosephsTask.csprojAssemblyReference.cache
+C:\Users\aikha\Downloads\DataStructuresExamples\JosephsTask\obj\Debug\netcoreapp3.1\JosephsTask.AssemblyInfoInputs.cache
+C:\Users\aikha\Downloads\DataStructuresExamples\JosephsTask\obj\Debug\netcoreapp3.1\JosephsTask.AssemblyInfo.cs
+C:\Users\aikha\Downloads\DataStructuresExamples\JosephsTask\obj\Debug\netcoreapp3.1\JosephsTask.csproj.CoreCompileInputs.cache
+C:\Users\aikha\Downloads\DataStructuresExamples\JosephsTask\obj\Debug\netcoreapp3.1\JosephsTask.dll
+C:\Users\aikha\Downloads\DataStructuresExamples\JosephsTask\obj\Debug\netcoreapp3.1\JosephsTask.pdb
+C:\Users\aikha\Downloads\DataStructuresExamples\JosephsTask\obj\Debug\netcoreapp3.1\JosephsTask.genruntimeconfig.cache
